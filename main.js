@@ -51,7 +51,7 @@ function showExample1() {
     <meta charset="UTF-8">
     <meta name="viewport">
     <title>Sample HTML</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" >
 </head>
 <body>
     <header>
